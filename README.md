@@ -14,13 +14,13 @@ pip install numpy pandas scikit-learn tensorflow
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/kardecallan566/lstm_model.git)
 ```
 
 2. Acesse o diretório do projeto:
 
 ```bash
-cd seu-repositorio
+cd lstm_model
 ```
 
 3. Execute o script:
