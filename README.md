@@ -38,6 +38,4 @@ python modelo_melhorado_manus.py
 ## Contribuição
 Se deseja contribuir, sinta-se à vontade para criar um *pull request* ou abrir uma *issue* relatando problemas e sugerindo melhorias.
 
-## Licença
-Este projeto está sob a licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
 
